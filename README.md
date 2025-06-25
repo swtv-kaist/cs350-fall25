@@ -99,7 +99,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Nov 24: [Integration-level Testing - Specialized Testing]()
 
-- Nov 26: [Automated Testing Techniques]
+- Nov 26: [Automated Testing Techniques]()
 
 - Dec 1: No class
 
