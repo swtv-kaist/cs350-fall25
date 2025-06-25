@@ -50,8 +50,6 @@ This course provides students with basic concepts in software engineering to dev
 
 ## Course Schedule
 
-*“Software testers do not make software; they only make them better.” – Anonymous*
-
 - Sep 1: [Introduction - What is Software Engineering](1-lectures/) [[pdf]](1-lectures/)
 
 <!--  Feb 28 : <a href="part2-coverage/lec1-Intro-AutomatedSWAnalysis_v11.pptx" download> Introduction2 </a> -->
