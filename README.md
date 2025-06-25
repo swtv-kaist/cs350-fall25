@@ -81,7 +81,37 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Oct 20:  Midterm exam
 
+- Oct 27: [Requirements Management - Requirements Models]()
+
+- OCt 29: Project mentoring meetings
+
+- Nov 3: [Domain Modeling - Design Concepts]()
+
+- Nov 5: [Design Modeling - Architectural Patterns]()
+
+- Nov 10: [Architectural Patterns (cont.)]()
+
+- Nov 12: [Architecture Design - Software Design Document]()
+
+- Nov 17: [Quality Concepts - Software Review Techniques]()
+
+- Nov 19: [Component-level Testing]()
+
+- Nov 24: [Integration-level Testing - Specialized Testing]()
+
+- Nov 26: [Automated Testing Techniques]
+
+- Dec 1: No class
+
+- Dec 3: Project mentoring meetings
+
+- Dec 8: [Software Configuration Management - Software Metrics and Analytics]()
+
+- Dec 10: [Software Planning -Risk Management]()
+
 - Dec 15: Final exam 
+
+- TBD: Final project presentation
 
 
 
