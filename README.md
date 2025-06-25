@@ -64,21 +64,21 @@ This course provides students with basic concepts in software engineering to dev
 
 - Sep 10: [Process Models]()
 
-- Sep 15: [Agile Software Development]
+- Sep 15: [Agile Software Development]()
 
-- Sep 17: [DevOps -Project Management Concepts]
+- Sep 17: [DevOps -Project Management Concepts]()
 
 - Sep 22: No class 
 
-- Sep 24: [Requirements Engineering - Requirements Elicitation Techniques I]
+- Sep 24: [Requirements Engineering - Requirements Elicitation Techniques I]()
 
-- Sep 29: [Technical Tutorial – UML]
+- Sep 29: [Technical Tutorial – UML]()
 
-- Oct 1: [Requirements Elicitation Techniques II - Requirements Analysis]
+- Oct 1: [Requirements Elicitation Techniques II - Requirements Analysis]()
 
-- Oct 13: [Use Case Modeling]
+- Oct 13: [Use Case Modeling]()
 
-- Oct 15: [Requirements Specification]
+- Oct 15: [Requirements Specification]()
 
 - Oct 20:  Midterm exam
 
