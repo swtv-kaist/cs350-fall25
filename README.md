@@ -57,12 +57,12 @@ This course provides students with basic concepts in software engineering to dev
 
 <!--  Feb 28 : <a href="part2-coverage/lec1-Intro-AutomatedSWAnalysis_v11.pptx" download> Introduction2 </a> -->
 
-- Sep 3: [The Nature of Software - Technical Debt ] 
+- Sep 3: [The Nature of Software - Technical Debt ]() 
 
   
-- Sep 8: [Software Engineering Principles & Practice]
+- Sep 8: [Software Engineering Principles & Practice]()
 
-- Sep 10: [Process Models]
+- Sep 10: [Process Models]()
 
 - Sep 15: [Agile Software Development]
 
