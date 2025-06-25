@@ -45,7 +45,7 @@
 ## Syllabus
 This course provides students with basic concepts in software engineering to develop high-quality software economically. The key concepts include software process models, software modeling and design methods, software testing techniques, project management concepts, and software metrics.
 
-Also, in this class, students are expected to experience how to apply LLM (large language model) like ChatGpt to improve efficiency of various software development tasks such as documentation, code development, test code generation, and so on.
+Also, students are expected to experience how to apply LLM (large language model) like ChatGpt to improve efficiency of various software development tasks such as documentation, code development, test code generation, and so on.
 
 - Roger S. Pressman, and Bruce R. Maxim, Software Engineering: A Practitioner’s Approach, 9th Ed., McGraw Hill, 2019 
 - Reading materials will be available on the class homepage
