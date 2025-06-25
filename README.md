@@ -50,9 +50,10 @@
 
 
 ## Syllabus
-This class covers automated SW testing/verification techniques to detect SW bugs by analyzing **SW source code** and its **diverse runtime behaviors**. In particular, this class focuses to teach techniques that automatically generate test cases to achieve high code coverage and, thus, to detect many bugs. 
+This course provides students with basic concepts in software engineering to develop high-quality software economically. The key concepts include software process models, software modeling and design methods, software testing techniques, project management concepts, and software metrics.
 
-The class teaches **practical applications** of testing/verification techniques by applying open-source testing/verification tools to complete homework tasks. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of automated testing/verification.
+- Roger S. Pressman, and Bruce R. Maxim, Software Engineering: A Practitioner’s Approach, 9th Ed., Mc Graw Hill, 2020 (ISBN-13: 978-1259872976)
+- Reading materials will be available on the class homepage
 
 ## Course Schedule
 
