@@ -25,6 +25,8 @@
   - This class can be difficult to follow for exchange students.
    hly recommend to take CS458 after taking CS230 System Programming first -->
   
+- Pre-requite:  CS.20300 System Programming, CS.20200 Programming Principles
+
 - Grading: attendance/class participation/quiz: 20%, HW and project: 30%, mid/final exams: 50%
   - You should turn on your web cam when you participate an online class; class attendance will not be counted otherwise.
   - More than 7 absences of the class will get F grade
