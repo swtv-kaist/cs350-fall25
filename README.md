@@ -27,7 +27,7 @@
   
 - Pre-requite:  
   - CS.20300 System Programming, CS.20200 Programming Principles
-  - I do not recommend students in non-SoC major to take this class for its heavy class workload (HW, team project, a large amount of documentation, etc.).
+  - I do not recommend students in non-SoC major to take this class for its heavy class workload (HW, team project, **a large amount of documentation**, etc.).
   - Also, freshmen students (새내기과정학부) are not eligible to take this 3rd year class for their insufficient technical communication skills required in team projects. 
 
 - Grading: attendance/class participation/quiz: 20%, HW and project: 30%, mid/final exams: 50%
