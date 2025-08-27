@@ -1,7 +1,7 @@
 # KAIST CS350 Intro. to Software Engineering, Fall '25
 
 ## Announcement
-- Aug 25: I added pre-requites of this class to the course home page.  If you think that you do not satisfy the pre-requites, please do not register this class.
+- Aug 25: I added pre-requites of this class in the course home page.  If you think that you do not satisfy the pre-requites, please do not register this class.
  
 ## Administrative Information
 
@@ -26,7 +26,7 @@
   - This class can be difficult to follow for exchange students.
    hly recommend to take CS458 after taking CS230 System Programming first -->
   
-- Pre-requite:  
+- Pre-requites:  
   - CS.20300 System Programming, CS.20200 Programming Principles
   - I do not recommend students in non-SoC majors to take this class for its heavy class workload (HW, team project, **a large amount of documentation**, etc.).
   - Also, freshmen students (새내기과정학부) are not eligible to take this 3rd year class for their insufficient technical communication skills required in team projects. 
