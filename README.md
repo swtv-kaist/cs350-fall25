@@ -1,6 +1,7 @@
 # KAIST CS350 Intro. to Software Engineering, Fall '25
 
 ## Announcement
+- Aug 25: I added pre-requites of this class to the course home page.  If you think that you do not satisfy the pre-requites, please do not register this class.
  
 ## Administrative Information
 
