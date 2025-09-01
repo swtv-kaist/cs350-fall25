@@ -29,7 +29,7 @@
 - Pre-requites:  
   - CS.20300 System Programming, CS.20200 Programming Principles
   - I do not recommend students in non-SoC majors to take this class for its heavy class workload (HW, team project, **a large amount of documentation**, etc.).
-  - Also, freshmen students (whose student IDs are 2025xxxx**) are not eligible to take this 3rd year class for their insufficient technical communication skills required in team projects. 
+  - Also, freshmen students (whose student IDs are 2025xxxx) are not eligible to take this 3rd year class for their insufficient technical communication skills required in team projects. 
 
 - Grading: attendance/class participation/quiz: 20%, HW and project: 30%, mid/final exams: 50%
   - You should turn on your web cam when you participate an online class; class attendance will not be counted otherwise.
