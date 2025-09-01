@@ -58,14 +58,16 @@ Also, students are expected to experience how to apply LLM (large language model
 
 ## Course Schedule
 
-- Sep 1: [Introduction - What is Software Engineering](slides/lec1-intro-to-SE1.pptx) [[pdf]](slides/lec1-intro-to-SE1.pdf)
+- Sep 1: [Introduction 1/2- What is Software Engineering](slides/lec1-intro-to-SE1.pptx) [[pdf]](slides/lec1-intro-to-SE1.pdf)
 
 <!--  Feb 28 : <a href="part2-coverage/lec1-Intro-AutomatedSWAnalysis_v11.pptx" download> Introduction2 </a> -->
 
-- Sep 3: [The Nature of Software - Technical Debt ]() 
+- Sep 3: [Introduction 2/2- High Complexity of Software]()
+
+
 
   
-- Sep 8: [Software Engineering Principles & Practice]()
+- Sep 8: [The Nature of Software - Technical Debt ]() [Software Engineering Principles & Practice]()
 
 - Sep 10: [Process Models]()
 
