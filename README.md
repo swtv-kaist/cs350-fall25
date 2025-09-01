@@ -58,7 +58,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 ## Course Schedule
 
-- Sep 1: [Introduction - What is Software Engineering](1-lectures/) [[pdf]](1-lectures/)
+- Sep 1: [Introduction - What is Software Engineering](slides/lec1-intro-to-SE1.pptx) [[pdf]](slides/lec1-intro-to-SE1.pdf)
 
 <!--  Feb 28 : <a href="part2-coverage/lec1-Intro-AutomatedSWAnalysis_v11.pptx" download> Introduction2 </a> -->
 
