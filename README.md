@@ -58,11 +58,12 @@ Also, students are expected to experience how to apply LLM (large language model
 
 ## Course Schedule
 
-- Sep 1: [Introduction 1/2- What is Software Engineering](slides/lec1-intro-to-SE1.pptx) [[pdf]](slides/lec1-intro-to-SE1.pdf)
+- Sep 1: [Introduction 1/3- What is Software Engineering](slides/lec1-intro-to-SE1.pptx) [[pdf]](slides/lec1-intro-to-SE1.pdf)
 
 <!--  Feb 28 : <a href="part2-coverage/lec1-Intro-AutomatedSWAnalysis_v11.pptx" download> Introduction2 </a> -->
 
-- Sep 3: [Introduction 2/2- High Complexity of Software]()
+- Sep 3: [Introduction 2/3- Tragedic Accident caused by Software Failures](slides/lec2-1.intro-to-SE2.pptx) [[pdf]](slides/lec2-1.intro-to-SE2.pdf)
+        [Introduction 2/3- High Complexity of Software](slides/lec2-2.Intro-HighComplexitySW_v8.pptx) [[pdf]](slides/lec2-2.Intro-HighComplexitySW_v8.pdf)
 
 
 
