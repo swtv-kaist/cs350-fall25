@@ -66,10 +66,8 @@ Also, students are expected to experience how to apply LLM (large language model
 
 [Introduction 2/3- High Complexity of Software](slides/lec2-2.Intro-HighComplexitySW_v8.pptx) [[pdf]](slides/lec2-2.Intro-HighComplexitySW_v8.pdf)
 
-
-
   
-- Sep 8: [The Nature of Software - Technical Debt ]() [Software Engineering Principles & Practice]()
+- Sep 8: [Overview of Software Engineering](slides/lec3-se_overview.pptx)[[pdf]](slides/lec3-se_overview.pdf)
 
 - Sep 10: [Process Models]()
 
