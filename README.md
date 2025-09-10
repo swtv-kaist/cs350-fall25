@@ -1,7 +1,7 @@
 # KAIST CS350 Intro. to Software Engineering, Fall '25
 
 ## Announcement
-- Sep 10: Slack channel is now open for helping the students to make his/her team through communication.  Please, read [the description on how to use the Slack channel](Team Project Announcement.pdf). 
+- Sep 10: Slack channel is now open for helping the students to make his/her team through communication.  Please, read [the description on how to use the Slack channel](Team\ Project\ Announcement.pdf). 
 
   https://join.slack.com/t/cs350-fall-2025/shared_invite/zt-3cyod61b7-Y5Rlr9nI7YDr1SnUaEx4CA 
 <img width="1870" height="88" alt="image" src="https://github.com/user-attachments/assets/e7268af2-81f8-4023-9c42-3c930cf45881" />
