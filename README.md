@@ -74,7 +74,7 @@ Also, students are expected to experience how to apply LLM (large language model
   
 - Sep 8: [Overview of Software Engineering](slides/lec3-se_overview.pptx) [[pdf]](slides/lec3-se_overview.pdf)
 
-- Sep 10, 15: [Ch1.Software and Software Engineering](slides/lec4-ch1-v2.pptx) [[pdf]]slides/lec4-ch1-v2.pdf)
+- Sep 10, 15:  [Ch1.Software and Software Engineering](slides/lec4-ch1-v2.pptx) [[pdf]](slides/lec4-ch1-v2.pdf)
 
 - Sep 17: [DevOps -Project Management Concepts]()
 
