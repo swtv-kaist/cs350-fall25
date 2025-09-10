@@ -4,7 +4,7 @@
 - Sep 10: Slack channel is now open for helping the students to make his/her team through communication.  Please, read [the description on how to use the Slack channel](Team%20Project%20Announcement.pdf). 
 
   https://join.slack.com/t/cs350-fall-2025/shared_invite/zt-3cyod61b7-Y5Rlr9nI7YDr1SnUaEx4CA 
-<img width="1870" height="88" alt="image" src="https://github.com/user-attachments/assets/e7268af2-81f8-4023-9c42-3c930cf45881" />
+<img width="1870" height="88" src="https://github.com/user-attachments/assets/e7268af2-81f8-4023-9c42-3c930cf45881" />
 
 - Sep 10: No class on Sep 22. Makeup lecture movie will be uploaded instead.
 - Aug 25: I added pre-requites of this class in the course home page.  If you think that you do not satisfy the pre-requites, please do not register this class.
