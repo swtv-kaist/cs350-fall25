@@ -76,6 +76,8 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Sep 10, 15:  [Ch1.Software and Software Engineering](slides/lec4-ch1-v2.pptx) [[pdf]](slides/lec4-ch1-v2.pdf)
 
+- Sep 15:  [Ch2.Process Models](slides/lec5-ch2-v2.pptx) [[pdf]](slides/lec5-ch2-v2.pdf)
+
 - Sep 17: [DevOps -Project Management Concepts]()
 
 - Sep 22: No class 
