@@ -1,6 +1,7 @@
 # KAIST CS350 Intro. to Software Engineering, Fall '25
 
 ## Announcement
+- Sep 22: Sep 24 (Wed) Zoom class will start from 1:15 pm (not 1:00 pm).
 - Sep 10: Slack channel is now open for helping the students to make his/her team through communication.  Please, read [the description on how to use the Slack channel](Team%20Project%20Announcement.pdf).
   
 [https://github.com/user-attachments/assets/e7268af2-81f8-4023-9c42-3c930cf45881](https://join.slack.com/t/cs350-fall-2025/shared_invite/zt-3cyod61b7-Y5Rlr9nI7YDr1SnUaEx4CA)
