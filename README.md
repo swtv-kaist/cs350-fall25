@@ -81,12 +81,12 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Sep 17: [Ch2.Process Models-part2](slides/lec5_ch2_prof.koh.pptx) [[pdf]](slides/lec5_ch2_prof.koh.pdf)
 
-[Ch3.Agility and Process](slides/lec6_ch3_part1.pptx) [[pdf]](slides/lec6_ch3_part1.pdf)
-  - [Questions and Answers in SEPA 9th ed]()
+[Ch3.Agility and Process part 1](slides/lec6_ch3_part1.pptx) [[pdf]](slides/lec6_ch3_part1.pdf)
+    - [Questions and Answers in SEPA 9th ed]()
 
 - Sep 22: No class 
 
-- Sep 24: [Ch3.Agility and Process](slides/lec6_ch3_part2.pptx) [[pdf]](slides/lec6_ch3_part2.pdf)
+- Sep 24: [Ch3.Agility and Process part 2](slides/lec6_ch3_part2.pptx) [[pdf]](slides/lec6_ch3_part2.pdf)
 
 - Sep 29: [Requirements Engineering - Requirements Elicitation Techniques I]()
   [Technical Tutorial – UML]()
