@@ -84,7 +84,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 [Ch3.Agility and Process part 1](slides/lec6_ch3_part1.pptx) [[pdf]](slides/lec6_ch3_part1.pdf)
 
-[Questions and Answers in SEPA 9th ed](slides/ch2-solution.docx)
+[Questions and Answers in SEPA 9th ed](slides/ch2-solution.doc)
 
 - Sep 22: No class 
 
