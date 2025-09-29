@@ -90,7 +90,8 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Sep 24: [Ch3.Agility and Process part 2](slides/lec7_ch3_part2.pptx) [[pdf]](slides/lec7_ch3_part2.pdf)
 
-- Sep 29: [Requirements Engineering - Requirements Elicitation Techniques I]()
+- Sep 29: [Ch7.Understanding Requirements](slides/lec8_ch7.pptx)[[pdf]](slides/lec8_ch7.pdf)
+  
   [Technical Tutorial – UML]()
 
 - Oct 1: [Requirements Elicitation Techniques II - Requirements Analysis]()
