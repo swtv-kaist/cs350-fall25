@@ -99,7 +99,7 @@ Also, students are expected to experience how to apply LLM (large language model
 - Oct 13: [Technical Tutorial – UML]()
 [Use Case Modeling]()
 
-# HW#1: Writing Requirement Specification for the Safehome product
+### HW#1: Writing Requirement Specification for the Safehome product
 
 - Oct 15: [Requirements Specification]()
 
