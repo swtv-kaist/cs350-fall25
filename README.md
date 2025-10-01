@@ -92,13 +92,14 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Sep 29: [Ch7.Understanding Requirements](slides/lec8_ch7.pptx) [[pdf]](slides/lec8_ch7.pdf)
   
-  [Technical Tutorial – UML]()
-
 - Oct 1: [Ch8.Requirements Modeling](slides/lec9_ch8.pptx) [[pdf]](slides/lec9_ch8.pdf)
 
 [Dialogs on the Safehome development in CPI co.](slides/safehome_dialog.pptx) [[pdf]](slides/safehome_dialog.pdf)
 
-- Oct 13: [Use Case Modeling]()
+- Oct 13: [Technical Tutorial – UML]()
+[Use Case Modeling]()
+
+HW#1: Writing Requirement Specification for the Safehome product
 
 - Oct 15: [Requirements Specification]()
 
