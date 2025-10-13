@@ -1,6 +1,7 @@
 # KAIST CS350 Intro. to Software Engineering, Fall '25
 
 ## Announcement
+- Oct 13: We do not have a midterm exam.  We will have a class on Oct 20 (Mon), but not on Oct 22 (Wed) due to possible conflict w/ exams of other classes.
 - Sep 22: Sep 24 (Wed) Zoom class will start from 1:15 pm (not 1:00 pm).
 - Sep 10: Slack channel is now open for helping the students to make his/her team through communication.  Please, read [the description on how to use the Slack channel](Team%20Project%20Announcement.pdf).
   
