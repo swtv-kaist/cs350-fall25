@@ -98,8 +98,8 @@ Also, students are expected to experience how to apply LLM (large language model
 
 [Dialogs on the Safehome development in CPI co.](slides/safehome_dialog.pptx) [[pdf]](slides/safehome_dialog.pdf)
 
-- Oct 13: [Technical Tutorial – UML]()
-[Use Case Modeling]()
+- Oct 13: [Technical Tutorial – UML](slides/lec11-UML_Tutorial.pptx)
+[[pdf]](slides/lec11-UML_Tutorial.pdf) 
 
 #### HW#1: Writing Requirement Specification for the Safehome product
 
