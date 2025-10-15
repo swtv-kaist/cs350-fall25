@@ -98,14 +98,12 @@ Also, students are expected to experience how to apply LLM (large language model
 
 [Dialogs on the Safehome development in CPI co.](slides/safehome_dialog.pptx) [[pdf]](slides/safehome_dialog.pdf)
 
-- Oct 13: [Technical Tutorial – UML](slides/lec11-UML_Tutorial.pptx)
+- Oct 13, 15: [Technical Tutorial – UML](slides/lec11-UML_Tutorial.pptx)
 [[pdf]](slides/lec11-UML_Tutorial.pdf) 
 
-#### HW#1: Writing Requirement Specification for the Safehome product
-
-- Oct 15: [Requirements Specification]()
-
-- Oct 20:  Midterm exam
+- Oct 20: Safehome project guideline
+  
+  #### HW#1: Writing Requirement Specification for the Safehome product
 
 - Oct 27: [Requirements Management - Requirements Models]()
 
