@@ -104,7 +104,7 @@ Also, students are expected to experience how to apply LLM (large language model
 - Oct 20: Safehome project guideline
   
   #### HW#1: Writing Requirement Specification for the Safehome product
-  - [LLM for UML diagram](LLM for UML.pdf)
+  - [LLM for UML diagram](LLM\ for\ UML.pdf)
 
 - Oct 27: [Requirements Management - Requirements Models]()
 
