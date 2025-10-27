@@ -103,7 +103,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Oct 20: Safehome project guideline
   
-  #### HW#1: Writing requirement specification for the Safehome product (deadline: Oct 31 midnight)
+#### HW#1: Writing requirement specification for the Safehome product (deadline: Oct 31 midnight)
   - [LLM for UML diagram](slides/LLMforUML.pdf)
 
 - Oct 27: [Requirements Management - Requirements Models]()
@@ -131,12 +131,12 @@ Also, students are expected to experience how to apply LLM (large language model
 - Nov 26: [Automated Testing Techniques]()
 
 - Dec 1: No class
-  
-  #### HW#3: Implementing and testing Safehome implementation (deadline: Dec 1 midnight)   
+
+#### HW#3: Implementing and testing Safehome implementation (deadline: Dec 1 midnight)   
 
 - Dec 3: [Software Configuration Management - Software Metrics and Analytics]() 
 
-  #### HW#4: Testing the Safehome implementations of the other teams (deadline: Dec 8 midnight)  
+#### HW#4: Testing the Safehome implementations of the other teams (deadline: Dec 8 midnight)  
 
 - Dec 8:  [Software Planning -Risk Management]()  
 
@@ -144,7 +144,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Dec 15: Final exam
 
-- #### HW#5: Final Safehome project submission (deadline: Dec 20 midnight) ####
+#### HW#5: Final Safehome project submission (deadline: Dec 20 midnight) ####
 
 - Dec 22: Final project presentation (all teams will present their results)
 
