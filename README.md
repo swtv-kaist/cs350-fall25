@@ -106,9 +106,9 @@ Also, students are expected to experience how to apply LLM (large language model
 #### HW#1: Writing requirement specification for the Safehome product (deadline: Oct 31 midnight)
   - [LLM for UML diagram](slides/LLMforUML.pdf)
 
-- Oct 27: [Requirements Management - Requirements Models]()
+- Oct 27: [Wrap-up for the 1st half semester: requirement-to-analysis-to-design](slides/lec13_wrapup_half_semester.pptx) [[pdf]](slides/lec13_wrapup_half_semester.pdf)
 
-- OCt 29: Project mentoring meetings
+- OCt 29: [Design Principles][slides/lec14_design_principles.pptx) [[pdf]][slides/lec14_design_principles.pdf) 
 
 - Nov 3: Safehome system requirement spec. review meeting (SRR)
 
