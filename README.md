@@ -103,14 +103,14 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Oct 20: Safehome project guideline
   
-  #### HW#1: Writing Requirement Specification for the Safehome product
+  #### HW#1: Writing requirement specification for the Safehome product (deadline: Oct 31 midnight)
   - [LLM for UML diagram](slides/LLMforUML.pdf)
 
 - Oct 27: [Requirements Management - Requirements Models]()
 
 - OCt 29: Project mentoring meetings
 
-- Nov 3: [Domain Modeling - Design Concepts]()
+- Nov 3: Safehome system requirement spec. review meeting (SRR)
 
 - Nov 5: [Design Modeling - Architectural Patterns]()
 
@@ -118,8 +118,12 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Nov 12: [Architecture Design - Software Design Document]()
 
-- Nov 17: [Quality Concepts - Software Review Techniques]()
+#### HW#2: Writing design specification for the Safehome product (deadline: Nov 14 midnight)
 
+- Nov 17: Safehome design review meeting (CDR)
+
+- [Quality Concepts - Software Review Techniques]()
+  
 - Nov 19: [Component-level Testing]()
 
 - Nov 24: [Integration-level Testing - Specialized Testing]()
@@ -127,20 +131,22 @@ Also, students are expected to experience how to apply LLM (large language model
 - Nov 26: [Automated Testing Techniques]()
 
 - Dec 1: No class
+  
+  #### HW#3: Implementing and testing Safehome implementation (deadline: Dec 1 midnight)   
 
-- Dec 3: Project mentoring meetings
+- Dec 3: [Software Configuration Management - Software Metrics and Analytics]() 
 
-- Dec 8: [Software Configuration Management - Software Metrics and Analytics]()
+  #### HW#4: Testing the Safehome implementations of the other teams (deadline: Dec 8 midnight)  
 
-- Dec 10: [Software Planning -Risk Management]()
+- Dec 8:  [Software Planning -Risk Management]()  
 
-- Dec 15: Final exam 
+- Dec 10: Safehome test review meeting (TRR)
 
-- TBD: Final project presentation
+- Dec 15: Final exam
 
+- #### HW#5: Final Safehome project submission (deadline: Dec 20 midnight) ####
 
-
-
+- Dec 22: Final project presentation (all teams will present their results)
 
 <!---
 ### Part IV: Testing/Verification Engine - SAT/SMT Solver
