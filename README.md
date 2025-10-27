@@ -108,7 +108,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Oct 27: [Wrap-up for the 1st half semester: requirement-to-analysis-to-design](slides/lec13_wrapup_half_semester.pptx) [[pdf]](slides/lec13_wrapup_half_semester.pdf)
 
-- OCt 29: [Design Principles](slides/lec14_design_principles.pptx) [[pdf]][slides/lec14_design_principles.pdf) 
+- OCt 29: [Design Principles](slides/lec14_design_principles.pptx) [[pdf]](slides/lec14_design_principles.pdf) 
 
 - Nov 3: Safehome system requirement spec. review meeting (SRR)
 
