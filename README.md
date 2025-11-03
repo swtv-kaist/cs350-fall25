@@ -110,7 +110,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - OCt 29: [Design Principles](slides/lec14_design_principles.pptx) [[pdf]](slides/lec14_design_principles.pdf) 
 
-- Nov 3: Safehome system requirement spec. review meeting (SRR)
+- Nov 3: Safehome software requirement spec. review meeting (SRR)
 
 - Nov 5: [Design Modeling - Architectural Patterns]()
 
