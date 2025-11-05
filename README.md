@@ -1,6 +1,7 @@
 # KAIST CS350 Intro. to Software Engineering, Fall '25
 
 ## Announcement
+- Nov 3: We do not have a class on Dec 1. Instead of a makeup class, we will extend class hour by 10 min.
 - Oct 13: We do not have a midterm exam.  We will have a class on Oct 20 (Mon), but not on Oct 22 (Wed) due to possible conflict w/ exams of other classes.
 - Sep 22: Sep 24 (Wed) Zoom class will start from 1:15 pm (not 1:00 pm).
 - Sep 10: Slack channel is now open for helping the students to make his/her team through communication.  Please, read [the description on how to use the Slack channel](Team%20Project%20Announcement.pdf).
@@ -112,9 +113,9 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Nov 3: Safehome software requirement spec. review meeting (SRR)
 
-- Nov 5: [Design Modeling - Architectural Patterns]()
+- Nov 5: [Software Metrics and Analytics](slides/lec15-ch23-design-metrics.pptx) [[pdf]](slides/lec15-ch23-design-metrics.pdf)
 
-- Nov 10: [Architectural Patterns (cont.)]()
+- Nov 10: [Design Modeling - Architectural Patterns]()  [Architectural Patterns (cont.)]()
 
 - Nov 12: [Architecture Design - Software Design Document]()
 
