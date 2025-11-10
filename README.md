@@ -115,9 +115,10 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Nov 5: [Software Metrics and Analytics](slides/lec15-ch23-design-metrics.pptx) [[pdf]](slides/lec15-ch23-design-metrics.pdf)
 
-- Nov 10: [Design Modeling - Architectural Patterns]()  [Architectural Patterns (cont.)]()
+- Nov 10: [Design Modeling - Architectural Patterns](slides/lec16_architectures.pptx)  [[pdf]](slides/lec16_architectures.pdf)
 
-- Nov 12: [Architecture Design - Software Design Document]()
+- Nov 12: [Software Quality Assurance](slides/lec19_SQA.pptx) [[pdf]](slides/lec19_SQA.pdf)
+
 
 #### HW#2: Writing design specification for the Safehome product (deadline: Nov 14 midnight) [Annoucement](slides/HW2_Announcement.pdf)
 
