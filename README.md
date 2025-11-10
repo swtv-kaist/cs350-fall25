@@ -119,7 +119,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Nov 12: [Architecture Design - Software Design Document]()
 
-#### HW#2: Writing design specification for the Safehome product (deadline: Nov 14 midnight)
+#### HW#2: Writing design specification for the Safehome product (deadline: Nov 14 midnight) [Annoucement](slides/HW2_Announcement.pdf)
 
 - Nov 17: Safehome design review meeting (CDR)
 
