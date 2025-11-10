@@ -120,7 +120,7 @@ Also, students are expected to experience how to apply LLM (large language model
 - Nov 12: [Software Quality Assurance](slides/lec19_SQA.pptx) [[pdf]](slides/lec19_SQA.pdf)
 
 
-#### HW#2: Writing design specification for the Safehome product (deadline: Nov 14 midnight) [Annoucement](slides/HW2_Announcement.pdf)
+#### HW#2: Writing design specification for the Safehome product (deadline: Nov 14 midnight) 
 
 - Nov 17: Safehome design review meeting (CDR)
 
