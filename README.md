@@ -63,6 +63,7 @@ This course provides students with basic concepts in software engineering to dev
 Also, students are expected to experience how to apply LLM (large language model) like ChatGpt to improve efficiency of various software development tasks such as documentation, code development, test code generation, and so on.
 
 - Roger S. Pressman, and Bruce R. Maxim, Software Engineering: A Practitioner’s Approach, 9th Ed., McGraw Hill, 2019
+- Bernd Bruegge and Allen H. Dutoit, Object-Oriented Software Engineering Using UML, Patterns, and Java, 3rd Ed., Prentice Hall Press, 2009
 - 소프트웨어 공학 이론과 실제 (홍장의), 한빛아카데미, 2022
 - Reading materials will be available on the class homepage
 
