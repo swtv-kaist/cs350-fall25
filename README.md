@@ -128,10 +128,12 @@ Also, students are expected to experience how to apply LLM (large language model
 - Nov 19: [Software engineering principles]() 
 
 - Nov 24: [Overview of SW testing - Fight against high complexity of SW]() [[pdf]]()
-          [Whitebox vs blackbox testing]() [[pdf]]()
+
+[Whitebox vs blackbox testing]() [[pdf]]()
 
 - Nov 26: [Graph coverage testing]() [[pdf]]()
-          [Logic coverage testing]() [[pdf]]()
+
+[Logic coverage testing]() [[pdf]]()
 
 - Dec 1: No class
 
