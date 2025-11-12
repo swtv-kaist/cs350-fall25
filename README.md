@@ -1,6 +1,7 @@
 # KAIST CS350 Intro. to Software Engineering, Fall '25
 
 ## Announcement
+- Nov 12: Dec 3 (Wed) class will be an offline class, not an online class.
 - Nov 3: We do not have a class on Dec 1. Instead of a makeup class, we will extend class hour by 10 min.
 - Oct 13: We do not have a midterm exam.  We will have a class on Oct 20 (Mon), but not on Oct 22 (Wed) due to possible conflict w/ exams of other classes.
 - Sep 22: Sep 24 (Wed) Zoom class will start from 1:15 pm (not 1:00 pm).
@@ -123,26 +124,28 @@ Also, students are expected to experience how to apply LLM (large language model
 #### HW#2: Writing design specification for the Safehome product (deadline: Nov 14 midnight) 
 
 - Nov 17: Safehome design review meeting (CDR)
-
-- [Quality Concepts - Software Review Techniques]()
   
-- Nov 19: [Component-level Testing]()
+- Nov 19: [Software engineering principles]() 
 
-- Nov 24: [Integration-level Testing - Specialized Testing]()
+- Nov 24: [Overview of SW testing - Fight against high complexity of SW]()
 
-- Nov 26: [Automated Testing Techniques]()
+          [Whitebox vs blackbox testing]()
+
+- Nov 26: [Graph coverage testing]()
+
+          [Logic coverage testing]() 
 
 - Dec 1: No class
 
 #### HW#3: Implementing and testing Safehome implementation (deadline: Dec 1 midnight)   
 
-- Dec 3: [Software Configuration Management - Software Metrics and Analytics]() 
+- Dec 3: Safehome implementation review meeting (offline class)
 
 #### HW#4: Testing the Safehome implementations of the other teams (deadline: Dec 8 midnight)  
 
-- Dec 8:  [Software Planning -Risk Management]()  
+- Dec 8: Wrap-up class, quiz and Q&A for the final exam 
 
-- Dec 10: Safehome test review meeting (TRR)
+- Dec 10: Safehome test review meeting (TRR) 
 
 - Dec 15: Final exam
 
