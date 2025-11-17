@@ -127,9 +127,11 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Nov 17: Safehome design review meeting (CDR)
   
-- Nov 19: [Software engineering principles](slides/lec20-ch6-principles.pptx)  [[pdf]](slides/lec20-ch6-principles.pdf) 
+- Nov 19: [Software engineering principles](slides/lec20-ch6-principles.pptx)  [[pdf]](slides/lec20-ch6-principles.pdf)
+  
+[Overview of SW testing 1](lec21-ch11-testing-OOSE.pptx) [[pdf]](lec21-ch11-testing-OOSE.pdf) (asking a permission to use the slides of Dr. Bernd Brügge)
 
-- Nov 24: [Overview of SW testing - Fight against high complexity of SW]() [[pdf]]()
+- Nov 24: [Overview of SW testing 2- Fight against high complexity of SW]() [[pdf]]()
 
 [Whitebox vs blackbox testing]() [[pdf]]()
 
