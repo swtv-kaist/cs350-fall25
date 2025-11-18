@@ -129,7 +129,9 @@ Also, students are expected to experience how to apply LLM (large language model
   
 - Nov 19: [Software engineering principles](slides/lec20-ch6-principles.pptx)  [[pdf]](slides/lec20-ch6-principles.pdf) [(Lecture movie file)](https://drive.google.com/file/d/1Dtvtf2wOo6VFjUuo6mrHP50z2t8LFOlW/view)
 
-[Practical guidelines for tests through safehome example](slides/lec20-test-example_v1.pptx) [[pdf]](slides/lec20-test-example_v1.pdf)
+[Practical guidelines for tests through safehome example](slides/lec20-test-example_v1.pptx) [[pdf]](slides/lec20-test-example_v1.pdf) 
+
+[(Lecture movie file)](https://drive.google.com/file/d/1GriOgPIIBXYrRiM9yrRDfMeG-7LhE0Ut/view?usp=drive_link)
 
 [Pytest and coverage.py](slides/lec20-testing-pythoncode_v3.pptx) [[pdf]](slides/lec20-testing-pythoncode_v3.pdf)
 
