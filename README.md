@@ -135,13 +135,14 @@ Also, students are expected to experience how to apply LLM (large language model
 [Pytest and coverage.py](slides/lec20-testing-pythoncode_v3.pptx) [[pdf]](slides/lec20-testing-pythoncode_v3.pdf) [(Lecture movie file)](https://drive.google.com/file/d/1NOAKkP3b1QkEuY8rCmTl2Uj6IgsiAIY9/view?usp=drive_link)
 
 - Nov 24: 
-[Overview of SW testing 1](lec21-ch11-testing-OOSE.pptx) [[pdf]](lec21-ch11-testing-OOSE.pdf) (asking a permission to use the slides of Dr. Bernd Brügge)
+[Overview of SW testing 1](slides/lec21-ch11-testing-OOSE.pptx) [[pdf]](slides/lec21-ch11-testing-OOSE.pdf) (asking a permission to use the slides of Dr. Bernd Brügge)
 
-[Overview of SW testing 2- Fight against high complexity of SW]() [[pdf]]()
+[Overview of SW testing 2- Fight against high complexity of SW](slides/) [[pdf]](slides/)
 
-[Whitebox vs blackbox testing]() [[pdf]]()
 
-- Nov 26: [Graph coverage testing]() [[pdf]]()
+- Nov 26: [Whitebox vs blackbox testing]() [[pdf]]()
+
+[Graph coverage testing]() [[pdf]]()
 
 [Logic coverage testing]() [[pdf]]()
 
@@ -153,7 +154,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 #### HW#4: Testing the Safehome implementations of the other teams (deadline: Dec 8 midnight)  
 
-- Dec 8: Wrap-up class, quiz and Q&A for the final exam 
+- Dec 8: Wrap-up class, quiz (open book) and Q&A for the final exam 
 
 - Dec 10: Safehome test review meeting (TRR) 
 
