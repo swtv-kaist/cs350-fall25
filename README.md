@@ -137,10 +137,11 @@ Also, students are expected to experience how to apply LLM (large language model
 - Nov 24: 
 [Overview of SW testing 1](slides/lec21-ch11-testing-OOSE.pptx) [[pdf]](slides/lec21-ch11-testing-OOSE.pdf) (asking a permission to use the slides of Dr. Bernd Brügge)
 
-[Overview of SW testing 2- Fight against high complexity of SW](slides/lec22.Intro-HighComplexitySW_v8.pptx) [[pdf]](slides/lec22.Intro-HighComplexitySW_v8.pdf)
+[Overview of SW testing 2- Black box vs White box](slides/lec22-testing-overview-v3.pptx) [[pdf]](slides/lec22-testing-overview-v3.pdf)
 
+- Nov 26:[Overview of SW testing 3- Fight against high complexity of SW](slides/lec22.Intro-HighComplexitySW_v8.pptx) [[pdf]](slides/lec22.Intro-HighComplexitySW_v8.pdf)
 
-- Nov 26: [Whitebox vs blackbox testing]() [[pdf]]()
+[Whitebox vs blackbox testing]() [[pdf]]()
 
 [Graph coverage testing]() [[pdf]]()
 
