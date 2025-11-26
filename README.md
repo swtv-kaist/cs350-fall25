@@ -141,12 +141,6 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Nov 26:[Overview of SW testing 3- Fight against high complexity of SW](slides/lec22.Intro-HighComplexitySW_v8.pptx) [[pdf]](slides/lec22.Intro-HighComplexitySW_v8.pdf)
 
-[Whitebox vs blackbox testing]() [[pdf]]()
-
-[Graph coverage testing]() [[pdf]]()
-
-[Logic coverage testing]() [[pdf]]()
-
 - Dec 1: No class
 
 #### HW#3: Implementing and testing Safehome implementation (deadline: Dec 1 midnight)   
@@ -155,7 +149,14 @@ Also, students are expected to experience how to apply LLM (large language model
 
 #### HW#4: Testing the Safehome implementations of the other teams (deadline: Dec 8 midnight)  
 
-- Dec 8: Wrap-up class, quiz (open book) and Q&A for the final exam 
+- Dec 8: Wrap-up class, quiz (open book) and Q&A for the final exam
+
+[Whitebox vs blackbox testing]() [[pdf]]()
+
+[Graph coverage testing]() [[pdf]]()
+
+[Logic coverage testing]() [[pdf]]()
+
 
 - Dec 10: Safehome test review meeting (TRR) 
 
