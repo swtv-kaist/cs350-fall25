@@ -1,0 +1,6 @@
+Team 7
+Account for Web Interface
+Username: admin
+Password: 123456
+Control Panel Master Password:
+1234
