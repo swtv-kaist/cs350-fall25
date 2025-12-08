@@ -153,13 +153,15 @@ Also, students are expected to experience how to apply LLM (large language model
 
 [20 GUI Testing Tools](https://www.functionize.com/automated-testing/gui-testing-tools)
 
-quiz (open book) and Q&A for the final exam.
+[Intent-Driven Mobile GUI Testing with Autonomous Large Language Model Agents](https://coinse.github.io/publications/pdfs/Yoon2024aa.pdf)
+
+quiz (open book) 
   
 
 <!--- [Whitebox vs blackbox testing]() [[pdf]]() [Graph coverage testing]() [[pdf]]() [Logic coverage testing]() [[pdf]]() --->
 
 
-- Dec 10: Safehome test review meeting (TRR) 
+- Dec 10: Safehome test review meeting (TRR) and Q&A for the final exam.
 
 - Dec 15: Final exam
 
