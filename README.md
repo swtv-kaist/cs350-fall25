@@ -163,7 +163,7 @@ quiz (open book)
 
 - Dec 10: Safehome test review meeting (TRR) and Q&A for the final exam.
 
-- Dec 15: Final exam
+- Dec 15: Final exam (closed book)
 
 #### HW#5: Final Safehome project submission (deadline: Dec 20 midnight) ####
 
