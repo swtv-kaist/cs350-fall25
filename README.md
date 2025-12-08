@@ -151,6 +151,8 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Dec 8: Wrap-up class, quiz (open book) and Q&A for the final exam
 
+[Static analyzer for bug detection](slides/lec24-static-analyzer.pptx) [[pdf]](slides/lec24-static-analyzer.pdf)
+
 [Whitebox vs blackbox testing]() [[pdf]]()
 
 [Graph coverage testing]() [[pdf]]()
