@@ -76,7 +76,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Sep 3: [Introduction 2/3- Tragedic Accident caused by Software Failures](slides/lec2-1.intro-to-SE2.pptx) [[pdf]](slides/lec2-1.intro-to-SE2.pdf)
 
-[Introduction 2/3- High Complexity of Software](slides/lec2-2.Intro-HighComplexitySW_v8.pptx) [[pdf]](slides/lec2-2.Intro-HighComplexitySW_v8.pdf)
+[Introduction 3/3- High Complexity of Software](slides/lec2-2.Intro-HighComplexitySW_v8.pptx) [[pdf]](slides/lec2-2.Intro-HighComplexitySW_v8.pdf)
 
   
 - Sep 8: [Overview of Software Engineering](slides/lec3-se_overview.pptx) [[pdf]](slides/lec3-se_overview.pdf)
