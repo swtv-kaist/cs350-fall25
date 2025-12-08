@@ -150,6 +150,9 @@ Also, students are expected to experience how to apply LLM (large language model
 #### HW#4: Testing the Safehome implementations of the other teams (deadline: Dec 8 midnight)  
 
 - Dec 8: [Static analyzer for bug detection](slides/lec24-static-analyzer.pptx) [[pdf]](slides/lec24-static-analyzer.pdf)
+
+[20 GUI Testing Tools](https://www.functionize.com/automated-testing/gui-testing-tools)
+
 quiz (open book) and Q&A for the final exam.
   
 
