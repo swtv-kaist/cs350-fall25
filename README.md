@@ -155,7 +155,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 [Intent-Driven Mobile GUI Testing with Autonomous Large Language Model Agents](https://coinse.github.io/publications/pdfs/Yoon2024aa.pdf)
 
-quiz (open book) 
+[quiz (open book)](cs350_quiz_2025Fall.pdf)
   
 
 <!--- [Whitebox vs blackbox testing]() [[pdf]]() [Graph coverage testing]() [[pdf]]() [Logic coverage testing]() [[pdf]]() --->
