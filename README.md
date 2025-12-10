@@ -1,7 +1,7 @@
 # KAIST CS350 Intro. to Software Engineering, Fall '25
 
 ## Announcement
-- Dec 10: No final project presentation since we skip the revision of the Safehome implementation and documents (i.e., no meeting on Dec 22).
+- Dec 10: No HW#5 and no final project presentation to reduce your workload during the final exam week (i.e., no meeting on Dec 22).
 - Nov 17: No class on Nov 19. Instead, I will upload a makeup lecture movie for Nov 19th class by tonight so that you can start Safehome implementation early. 
 - Nov 12: Dec 3 (Wed) class will be an offline class, not an online class.
 - Nov 3: We do not have a class on Dec 1. Instead of a makeup class, we will extend class hour by 10 min.
@@ -166,7 +166,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Dec 15: Final exam (closed book)
 
-#### HW#5: Final Safehome project submission (deadline: Dec 20 midnight) ####
+~~#### HW#5: Final Safehome project submission (deadline: Dec 20 midnight) ####~~
 
 ~~- Dec 22: Final project presentation (all teams will present their results)~~
 
