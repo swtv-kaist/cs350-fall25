@@ -164,7 +164,7 @@ Also, students are expected to experience how to apply LLM (large language model
 
 - Dec 10: Safehome test review meeting (TRR) and Q&A for the final exam.
 
-- Dec 15: Final exam (closed book)
+- Dec 15: Final exam (closed book) 13:00-15:30 
 
 ~~#### HW#5: Final Safehome project submission (deadline: Dec 20 midnight) ####~~
 
